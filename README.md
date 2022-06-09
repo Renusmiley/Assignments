@@ -1,3 +1,3 @@
 iNeuron Full Stack Data Science:
   
-  Python Basic (03/25)
+  Python Basic (06/25)
